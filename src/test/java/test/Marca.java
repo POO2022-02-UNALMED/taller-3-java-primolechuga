@@ -7,10 +7,10 @@ public class Marca{
     public Marca(String nombre){
       this.nombre=nombre;
     }
-    public void setnombre(String nombre){
+    public void setNombre(String nombre){
         this.nombre=nombre;
     }
-    public String getnombre(){
+    public String getNombre(){
         return this.nombre;
     }
 }
